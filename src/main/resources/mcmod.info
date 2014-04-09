@@ -1,0 +1,14 @@
+[
+{
+  "modid": "minextension",
+  "name": "MinExtension",
+  "description": "Adds some cool content to extends Minecraft !",
+  "version": "1.0",
+  "mcversion": "1.7",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["nxs"],
+  "credits": "nxs",
+  "logoFile": "/logo.png"
+}
+]
